@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PartNumber id=""><Core name="CortexR4"><DebugProperties>&lt;?xml version="1.0" encoding="UTF-8" standalone="no" ?&gt;
+&lt;PropertyValues&gt;
+
+  &lt;property id="FlashRangeToggle"&gt;
+    &lt;curValue&gt;0&lt;/curValue&gt;
+  &lt;/property&gt;
+
+&lt;/PropertyValues&gt;
+</DebugProperties><FilePaths><File Check="Checked">C:\Program Files (x86)\Hitex\safeTI-HSK\Firmware-applications\Safety_application\HSK_Safety_Application_BE.out</File></FilePaths></Core></PartNumber>
